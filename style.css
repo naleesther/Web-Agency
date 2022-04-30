@@ -146,7 +146,7 @@ margin-top: 5%;
 }
 .words h2{
   font-size: 35px;
-  
+
 }
 .square1{
   margin-left: 16%;
@@ -198,14 +198,14 @@ margin-top: 5%;
   margin-top: 8%;
   margin-left: 18%;
 }
-.bar{
+.barr{
   margin-left: 30%;
   margin-top: 10%;
 }
-.bar h1{
+.barr h1{
   font-size: 50px;
 }
-.bar button{
+.barr button{
   width:50%;
   padding: 2%;
   background-color: #118379;
@@ -216,7 +216,7 @@ button2{
   background-color: blue;
   border-radius: 10px;
   padding: 8px;
-  color: #ffffff;
+  color: #ffffff;git 
 }
 .icoon h2{
   margin-left: 10%;
