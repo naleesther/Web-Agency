@@ -205,18 +205,18 @@ margin-top: 5%;
 .barr h1{
   font-size: 50px;
 }
-.barr button{
+.bar button{
   width:50%;
   padding: 2%;
   background-color: #118379;
   border-radius: 10px;
 }
-button2{
+.barr button2{
   margin-left: -90px;
   background-color: blue;
   border-radius: 10px;
-  padding: 8px;
-  color: #ffffff;git 
+  padding: 10px;
+  color:white;
 }
 .icoon h2{
   margin-left: 10%;
